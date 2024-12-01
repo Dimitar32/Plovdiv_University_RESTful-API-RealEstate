@@ -1,4 +1,5 @@
 # **RESTful API for Real Estate**
+Course Project for Discipline - Web Server Languages - 4th Year, 1st Semester
 
 ---
 
@@ -25,9 +26,9 @@ This project is a RESTful API for managing real estate listings, developed as pa
 ## **Technologies Used**
 
 <p align="left">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" alt="Node.js Logo" width="50"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React Logo" width="50"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" alt="SQL Logo" width="50"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/ee/.NET_Core_Logo.svg" alt=".NET Logo" width="50"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Git-logo.svg" alt="Git Logo" width="50"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Swagger-logo.png" alt="Swagger Logo" width="50"/>
 </p>
 
 - **Backend:** [Language/Framework, e.g., Node.js, .NET, or Java Spring Boot]  
