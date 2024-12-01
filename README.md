@@ -21,7 +21,7 @@ This project is a RESTful API for managing real estate listings, developed as pa
 
 ---
 
-## **Tech Stack**
+## 🛠️ **Tech Stack**
 
 <p align="left">
   <img src="https://upload.wikimedia.org/wikipedia/commons/e/ee/.NET_Core_Logo.svg" alt=".NET Logo" width="50"/>
