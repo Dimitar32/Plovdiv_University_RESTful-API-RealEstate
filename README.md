@@ -3,47 +3,39 @@ Course Project for Discipline - Web Server Languages - 4th Year, 1st Semester
 
 ---
 
+
 ## **Project Description**
 
-This project is a RESTful API for managing real estate listings, developed as part of the coursework for Plovdiv University. The API provides functionality for managing properties, including adding, updating, deleting, and retrieving real estate listings.
+The **Real Estate Management System** is a comprehensive RESTful API designed to facilitate the management of properties, owners, tenants, and lease agreements. It enables CRUD operations for each entity and provides robust endpoints for streamlined real estate management. Built using **.NET 8** with integrated **Swagger UI**, the API ensures a seamless development and testing experience for users.
 
-- **Purpose:** To demonstrate the application of RESTful API principles and backend development concepts using [Technologies Used].  
-- **Features:** CRUD operations for real estate listings with robust validation and error handling.
+### **Core Functionalities**
+1. **Property Management**:
+   - Add, update, retrieve, and delete property records.
+   - Update property status.
 
----
+2. **Owner Management**:
+   - Add, update, and delete owners.
+   - Retrieve all owners or filter by specific criteria like name or ID.
 
-## **Features**
+3. **Tenant Management**:
+   - Manage tenant records: add, update, delete, and search.
+   - Retrieve tenants based on IDs or filter by name.
 
-- **Property Management:** Add, update, delete, and retrieve properties.  
-- **Search and Filter:** Query properties based on specific criteria (e.g., price, location, size).  
-- **RESTful Design:** Built with RESTful architecture principles.  
-- **Error Handling:** Includes validation and error response mechanisms for robust API behavior.  
+4. **Lease Agreement Management**:
+   - Create, update, and delete lease agreements.
+   - Retrieve all agreements or filter by specific IDs.
 
 ---
 
 ## 🛠️ **Tech Stack**
 
 <p align="left">
+  <img src="https://cdn.worldvectorlogo.com/logos/c--4.svg" alt="C# Logo Modern" width="50"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/e/ee/.NET_Core_Logo.svg" alt=".NET Logo" width="50"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Git-logo.svg" alt="Git Logo" width="50"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Swagger-logo.png" alt="Swagger Logo" width="50"/>
+  <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="SQL Server Minimal Logo" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub Black Logo" width="50"/>
 </p>
 
----
-
-## **Requirements**
-
-To run this project, you need:  
-- **Development Environment:** Node.js, .NET, or another backend runtime (depending on your setup)  
-- **Database:** SQL Server or equivalent  
-- **Tools:** Postman for API testing, Git for version control  
 
 ---
 
-## **Endpoints**
-- **GET /properties**: Retrieve all properties.  
-- **POST /properties**: Add a new property.  
-- **PUT /properties/{id}**: Update a property.  
-- **DELETE /properties/{id}**: Delete a property.  
-
----
