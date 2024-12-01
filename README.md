@@ -7,8 +7,6 @@ Course Project for Discipline - Web Server Languages - 4th Year, 1st Semester
 
 This project is a RESTful API for managing real estate listings, developed as part of the coursework for Plovdiv University. The API provides functionality for managing properties, including adding, updating, deleting, and retrieving real estate listings.
 
-- **Course:** [Course Name]  
-- **Instructor:** [Instructor Name]  
 - **Purpose:** To demonstrate the application of RESTful API principles and backend development concepts using [Technologies Used].  
 - **Features:** CRUD operations for real estate listings with robust validation and error handling.
 
@@ -23,18 +21,13 @@ This project is a RESTful API for managing real estate listings, developed as pa
 
 ---
 
-## **Technologies Used**
+## **Tech Stack**
 
 <p align="left">
   <img src="https://upload.wikimedia.org/wikipedia/commons/e/ee/.NET_Core_Logo.svg" alt=".NET Logo" width="50"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Git-logo.svg" alt="Git Logo" width="50"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Swagger-logo.png" alt="Swagger Logo" width="50"/>
 </p>
-
-- **Backend:** [Language/Framework, e.g., Node.js, .NET, or Java Spring Boot]  
-- **Database:** SQL-based database for persistent storage  
-- **Frontend:** React (optional, if integrated with a frontend application)  
-- **Tools:** Postman for testing, Git for version control  
 
 ---
 
@@ -54,16 +47,3 @@ To run this project, you need:
 - **DELETE /properties/{id}**: Delete a property.  
 
 ---
-
-## **Project Structure**
-
-```plaintext
-Plovdiv_University_RESTful-API-RealEstate/
-├── controllers/       # API controllers for managing endpoints
-├── models/            # Database models
-├── services/          # Business logic and services
-├── migrations/        # Database migrations
-├── routes/            # API route definitions
-├── config/            # Configuration files (e.g., database connection)
-├── tests/             # Unit and integration tests
-├── README.md          # Project documentation
